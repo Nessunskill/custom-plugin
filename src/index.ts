@@ -1,3 +1,3 @@
 const x = 5;
-console.log(x)
-export {x}
+console.log(x);
+export { x };
