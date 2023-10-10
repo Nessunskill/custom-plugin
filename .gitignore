@@ -10,6 +10,7 @@
 
 # production
 /dist
+/bin
 
 # misc
 .DS_Store
