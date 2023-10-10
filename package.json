@@ -1,5 +1,5 @@
 {
-  "name": "custom-plugin",
+  "name": "@nessunskill/custom-plugin",
   "version": "1.0.0",
   "description": "Brizy plugin boilerplate",
   "main": "dist/index.js",
